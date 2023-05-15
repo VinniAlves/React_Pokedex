@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 1em;
+}
+
+.icon_poke{
+    width: 4em;
+    height: 4em;
+    color: #fff;
+}
+
+.text{
+    color: #fff;
+    font-size: 2em;
+    font:bold;
+    margin-left: .7em;
+    margin-top: .3em;
+}
+
+.input_pesq{
+    margin-left: 3em;
+    width: 20em;
+    border-radius: 100px;
+    height: 40px;
+    margin-top: .3em;
+    font-size: 1em;
+    padding: 0 0 0 42px;
+}
+
+.button_icon{
+    position: absolute;
+    border: none;
+    cursor: pointer;
+}
+
+.icon_pesq{
+    position: absolute;
+    left: 285px;
+    height: 1.5em;
+    width: 1.5em;
+    top:14px;
+}
+
+.icon_pesq:hover{
+    box-shadow: inset 0px 0px 10px 0px rgb(241, 238, 238);
+    
+}

@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+html,body,#root {
+  font-family: 'Montserrat', sans-serif;
+}

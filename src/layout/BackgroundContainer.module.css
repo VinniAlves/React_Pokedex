@@ -1,0 +1,6 @@
+.background{
+    width: 100%;
+    background-color: #dc0a2d;
+    position: absolute;
+    z-index: -1;
+}

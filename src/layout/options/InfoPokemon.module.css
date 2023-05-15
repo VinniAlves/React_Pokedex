@@ -1,0 +1,417 @@
+
+.bug_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#A7B723 ;
+}
+.dark_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color: #75574C;}
+.dragon_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#7037FF;}
+.eletric_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color: #F9CF30;}
+.fairy_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#E69EAC;}
+.fighting_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#C12239;}
+.fire_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color: #F57D31;}
+.flying_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#A891EC ;}
+.ghost_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#70559B ;}
+.normal_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#AAA67F ;}
+.grass_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#74CB48 ;
+}
+.ground_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#DEC16B ;}
+.ice_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#9AD6DF ;}
+.poison_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#A43E9E ;}
+.psychic_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#FB5584 ;}
+.rock_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#B69E31 ;}
+.stell_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#B7B9D0 ;}
+.water_background{display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-color:#6493EB ;}
+
+
+
+
+.bug{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#A7B723 ;}
+.dark{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color: #75574C;}
+.dragon{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#7037FF;}
+.eletric{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color: #F9CF30;}
+.fairy{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#E69EAC;}
+.fighting{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#C12239;}
+.fire{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color: #F57D31;}
+.flying{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#A891EC ;}
+.ghost{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#70559B ;}
+.normal{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#AAA67F ;}
+.grass{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#74CB48 ;}
+.ground{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#DEC16B ;}
+.ice{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#9AD6DF ;}
+.poison{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#A43E9E ;}
+.psychic{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#FB5584 ;}
+.rock{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#B69E31 ;}
+.stell{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#B7B9D0 ;}
+.water{width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 2em;
+    background-color:#6493EB ;}
+
+
+.name{
+    position: absolute;
+    left: 100px;
+    top:30px;
+    color: white;
+}
+
+.background_info{
+    margin: 0 auto;
+    width: 98%;
+    background-color: white;
+    margin-top:38vh;
+    border-radius: 15px;
+    box-shadow: inset 0px 1px 3px 1px rgba(0, 0, 0, 0.25);
+    margin-bottom: 2em;
+}
+
+.img{
+    display: flex;
+    margin: 0 auto ;
+    margin-top:-8em;
+
+    z-index: 2; 
+    max-width: 200px;
+}
+
+.container_tipo{
+    display: flex;
+    justify-content: center;
+    gap:55px;
+}
+
+.tipo {
+    width: 100px;
+    height: 40px;
+    background-color: #74CB48;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+
+.tipo_text{
+    position: relative;
+    top:10px;
+    text-align: center;
+    font-size: 1em;
+    color: white;
+    font-weight: 600;
+}
+
+.about{
+    text-align: center;
+    color:#74CB48;
+    font-weight: bold;
+    position: relative;
+    top: 1.5em;
+}
+
+.caracteristicas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-top: 4em;
+}
+
+.peso{
+    width: 120px;
+    height: 100px;
+    text-align: center;
+}
+.peso_icon{
+    position: relative;
+    right: 2em;
+    top:15px;
+    width: 1.4em;
+    height: 1.4em;
+}
+
+.peso_text{
+    position: relative;
+    font-size: 1.2em;
+    left: 1em;
+    top:-0.6em;
+}
+
+.peso_text_fixed{
+    color: #666;
+    margin-top: 0.7em;
+
+}
+
+
+.tamanho{
+    width: 120px;
+    height: 100px;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    margin: 0 2.5em 0 2.5em;
+    text-align: center;
+    padding: 0 2.5em 0 2.5em;
+}
+
+.tamanho_icon{
+    position: relative;
+    right: 2em;
+    top:15px;
+    width: 1.4em;
+    height: 1.4em;
+}
+
+.tamanho_text{
+    position: relative;
+    font-size: 1.2em;
+    left: 1em;
+    top:-0.6em;
+}
+
+.tamanho_text_fixed{
+    color: #666;
+    margin-top: 0.7em;
+    
+
+}
+
+
+.habilidade{
+    width: 120px;
+    height: 100px;
+    text-align: center;
+}
+
+.habilidade_text_um{
+    position: relative;
+    font-size: 1.2em;
+    top:0em;
+}
+
+
+.habilidade_text_dois{
+    position: relative;
+    font-size: 1.2em;
+    top:0.2em;
+}
+
+.habilidade_text_fixed{
+    color: #666;
+    margin-top: 0.7em;
+}
+
+.titulo_stats{
+    text-align: center;
+    margin-top: 1em;
+    color: #74CB48;
+    font-weight: bold;
+}
+
+.container_stats{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 2em 0 2em 0;
+}
+.container_stats p {
+    color: #74CB48;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.container_stats text{
+    
+    margin-left: 3em;
+}
+
+.container_divisoria{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    
+}
+
+.divisoria{    
+    height: 10em;
+    width: 1px;
+    border: 1px solid #e0e0e0;
+    margin-top: 2.3em;
+    
+}

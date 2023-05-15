@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    margin-left: 3em;
+    position: absolute;
+    margin-top: -0.5em;
+}
+
+.next{
+    width: 4em;
+    height: 4em;
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid #cfbcbc;
+    cursor: pointer;
+    margin-right: 1em;
+
+    
+}
+
+.next:hover{
+    background-color: rgb(240, 233, 233);
+}
+
+.icon_next{
+    width: 2em;
+    height: 2em;
+}
+
+.back{
+    width: 4em;
+    height: 4em;
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid #cfbcbc;
+    cursor: pointer;
+    margin-right: 1em;
+}
+
+
+.hover_back:hover{
+    display: block;
+}
+
+.back:hover{
+    background-color: rgb(240, 233, 233);
+}
+
+
+.icon_back{
+    width: 2em;
+    height: 2em;
+}
